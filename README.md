@@ -1,4 +1,4 @@
-# React Project! 
+# Rails-React Project! 
 
 You've made it! You're ready to build a React application! Before you start ideating, think about some of the project requirements. 
 
